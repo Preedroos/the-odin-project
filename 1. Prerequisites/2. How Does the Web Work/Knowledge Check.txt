@@ -1,0 +1,44 @@
+What is a web server?
+Answer: A computer that hosts websites, services and applications.
+
+What is a network?
+Answer: A network is a link between computers, either physically or wirelessly.
+
+What is the internet?
+Answer: The internet is a wire which connect servers.
+
+What is an IP address?
+Answer: An IP address is a way to identify computers on the internet.
+
+What is a router?
+Answer: A router is a tiny computer that enables computers communicate with each other efficiently.
+
+What is an ISP?
+Answer: An ISP (Internet Service Provider) is a company that manages special routers and they're all linked together.
+
+What are packets and how are they used to transfer data?
+Answer: Packets are bits of information and are transferred that way to make the internet faster and safer.
+
+What is a client?
+Answer: A client is a computer that requests services.
+
+What is a server?
+Answer: A server is a computer that provides services.
+
+What is a web page?
+Answer: A web page is a file that contains elements such as HTML, CSS, JS and more.
+
+What is a web browser?
+Answer: A web browser is a software that allows visiting web sites.
+
+What is a search engine?
+Answer: A search engine is a web site whose function is only to favor searches.
+
+What is a DNS request?
+Answer: A DNS is a name given to the IP of websites.
+
+Which browser are you currently using?
+Answer: I'm using Google Chrome.
+
+In your own words, explain what happens when you run a search on google.com.
+Answer: Google does a query on other sites and gives me a list of sites that match my search.

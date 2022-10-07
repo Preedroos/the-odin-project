@@ -1,0 +1,11 @@
+Is Windows an operating system or an application?
+Answer: Windows is an operacional system because without it the computer doesn't work at all.
+
+What's the difference between open source and closed source software?
+Answer: In an open source software you can see how it works by looking at its source code, or even change it, but you can't do the same in a closed source software.
+
+What are some use cases of a screenshot?
+Answer: If you want to show to someone what's happening on your screen or save the state of something, for example.
+
+Give an example of a weak and a strong password.
+Answer: A weak password contains personal information, such as dates, favorite foods, names, etc. A strong password can contain these contents but somehow in a encrypted format.
