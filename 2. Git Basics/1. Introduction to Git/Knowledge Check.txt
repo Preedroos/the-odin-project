@@ -1,0 +1,17 @@
+What kind of program is Git?
+Answer: It's a version control system.
+
+What are the differences between Git and a text editor in terms of what they save and their record keeping?
+Answer: Git doesn't save files as a backup, it saves a history of snapshots which is much more efficient.
+
+Does Git work at a local or remote level?
+Answer: Git is a local repository.
+
+Does GitHub work at a local or remote level?
+Answer: On the other hand, GitHub is a remote repository.
+
+Why is Git useful for an individual developer?
+Answer: Because it doesn't need internet access to work, since all history and saves are local saved.
+
+Why are Git and GitHub useful for a team of developers?
+Answer: Because they use Git to manage their local working and then upload it to the rest of team know about it.
