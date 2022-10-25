@@ -1,0 +1,32 @@
+What is the command line?
+Answer: It is a script which your computer executes.
+
+How do you open the command line on your computer?
+Answer: Press Win button and search for "terminal" then Enter.
+
+How can you navigate to a particular directory?
+Answer: cd <directory_name>
+
+Where will 'cd' on its own navigate you to?
+Answer: To the currently path you are in.
+
+Where will 'cd ..' navigate you to?
+Answer: To the previous directory of the path you are in.
+
+How do you display the name of the directory you are currently in?
+Answer: pwd
+
+How do you display the contents of the directory you are currently in?
+Answer: ls
+
+How do you create a new directory?
+Answer: mkdir <directory_name>
+
+How do you create a new file?
+Answer: touch <file_name>
+
+How do you destroy a directory or file?
+Answer: rm <file_name>
+
+How do you rename a directory or file?
+Answer: mv <old_file_name> <new_file_name>
