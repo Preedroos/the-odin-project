@@ -1,0 +1,1 @@
+This repository contains my knowledge's checks and projects that I'm doing during The Odin Project course.
