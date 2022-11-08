@@ -1,0 +1,23 @@
+What element is used to create a link?
+Answer: <a></a>
+
+What is an attribute?
+Answer: In most cases a pair of key and value that complement the state of the tag.
+
+What attribute tells links where to go to?
+Answer: href="<destiny>"
+
+What is the differente between an absolute and relative link?
+Answer: An absolute link contains <protocol>://<domain>/<path> explicitly, on the other hand a relative link just need <path>.
+
+Which element is used to display an image?
+Answer: <img/>
+
+What two attributes do images always need to have?
+Answer: src="" alt=""
+
+How do you access a parent directory in a filepath?
+Answer: ../
+
+What are the four main image formats that you can use for images on the web?
+Answer: JPG, GIF, PNG and SVG.

@@ -1,0 +1,5 @@
+What is an HTML tag?
+Answer: An HTML tag is a content wrapper and tells the browser how to handle the content inside it.
+
+What are the three parts of an HTML element?
+Answer: <opening_tag> content </closing_tag>

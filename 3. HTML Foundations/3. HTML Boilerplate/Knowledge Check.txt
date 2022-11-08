@@ -1,0 +1,11 @@
+What is the purpose of the doctype declaration?
+Answer: It tells the browser what version of HTML the document should be rendered.
+
+What is the HTML element?
+Answer: The root element, and also contains the "lang" attribute that tells the browser, and other assistive tools, in which language the page should be displayed.
+
+What is the purpose of the head element?
+Answer: To set some important meta-information about the website and how it should be correctly rendered.
+
+What is the purpose of the body element?
+Answer: To set the content the user will see.
