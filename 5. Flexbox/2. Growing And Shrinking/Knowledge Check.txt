@@ -1,0 +1,5 @@
+What are the 3 values defined in the shorthand 'flex' property (e.g. 'flex: 1 1 auto')?
+Answer: flex-grow, flex-shrink and flex-basis.
+
+What are the 3 defined values for the flex shorthand 'flex: auto'?
+Answer? flex-grow: 1, flex-shrink: 1 and flex-basis: auto
