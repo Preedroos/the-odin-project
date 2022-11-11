@@ -1,0 +1,17 @@
+What is the difference between a block element and an inline element?
+Answer: You can set width and height for a block element, they also fill parent block on the horizontal axis. An inline element just comprehends the content size and you can't set width and height for it.
+
+What is the difference between an inline element and an inline-block element?
+Answer: Already said above how an inline element works, but using an inline-block element you can set width and height.
+
+Is an 'h1' block or inline?
+Answer: Block.
+
+Is 'button' block or inline?
+Answer: Inline.
+
+Is 'div' block or inline?
+Answer: Block.
+
+Is 'span' block or inline?
+Answer: Inline.
