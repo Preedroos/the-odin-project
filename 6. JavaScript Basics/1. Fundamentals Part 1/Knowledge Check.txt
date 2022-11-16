@@ -1,0 +1,38 @@
+Name the three ways to declare a variable.
+Answer: var, let and const.
+
+Which of the three variable declarations should you avoid and why?
+Answer: Must avoid "var" because it has no scope, it's possible to redeclare even before and after using it.
+
+What rules should you follow when naming variables?
+Answer: 1. just use letters, numbers and the "$" or "_" symbols; 2. the name can't start with numbers; 3. the name has to be meaning;
+
+What happens when you add numbers and strings together?
+Answer: They concatenate.
+
+How does the Modulo (%), or Remainder, operator work?
+Answer: It does an integer division and returns the rest.
+
+Explain the difference between '==' and '==='.
+Answer: The "==" operator equals value while the "===" operator equals value and data type.
+
+When would you receive a 'NaN' result?
+Answer: Doing an operation between a number and a non-number.
+
+How do you increment and decrement a number?
+Answer: Using "++" to increment and "--" to decrement.
+
+Explain the difference between prefixing and postfixing increment/decrement operators.
+Answer: The prefixing way increments/decrements before execute whatever it has to, while postfixing does that after execute whatever it has to so.
+
+What is operator precedence and how is it handled in JS?
+Answer: Operator precedence is how the arithmetic is supposed to be solved and luckily it is the same one we learned in school. Also, the execution order is from left to right.
+
+How do you access developer tools and the console?
+Answer: Right click on the page and select "Inspect" or "Inspect Element".
+
+How do you log information to the console?
+Answer: console.log();
+
+What does unary plus operator do to string representations of integers? eg. + "10"
+Answer: It actually does the same thing as Number(...), but is shorter.
