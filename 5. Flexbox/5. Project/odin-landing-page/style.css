@@ -1,0 +1,295 @@
+/* ==================== GLOBAL CONFIG ==================== */
+
+:root {
+  --b-radius: 10px;
+
+  font-size: 16px;
+  --text-lg: 1.125rem;
+  --text-2xl: 1.5rem;
+  --text-4xl: 2.25rem;
+  --text-5xl: 3rem;
+
+  --blue: #3882f6;
+  --dark: #1f2937;
+  --gray: #e5e7eb;
+  --white: #f9faf8;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+p {
+  font-size: var(--text-lg);
+}
+
+.bg-dark {
+  background-color: var(--dark);
+}
+
+.bg-gray {
+  background-color: var(--gray);
+}
+
+.bg-light {
+  background-color: var(--white);
+}
+
+.button {
+  width: 132px;
+  height: 38px;
+  border-radius: var(--b-radius);
+  font-weight: 700;
+  font-size: var(--text-lg);
+  text-align: center;
+  color: var(--white);
+  cursor: pointer;
+  transition: 200ms;
+}
+
+.button.filled {
+  border: 3px solid var(--blue);
+  background-color: var(--blue);
+}
+
+.button.filled:hover {
+  border: 3px solid var(--white);
+  background-color: inherit;
+}
+
+.button.transparent {
+  border: 3px solid var(--white);
+  background-color: inherit;
+}
+
+.button.transparent:hover {
+  border: 3px solid var(--dark);
+  background-color: var(--dark);
+}
+
+.content-wrapper {
+  width: 70%;
+  margin-inline: auto;
+  padding-block: 20px;
+}
+
+/* ==================== MENU ==================== */
+
+.menu {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.logo {
+  font-size: var(--text-2xl);
+  font-weight: 800;
+  color: var(--white);
+}
+
+.links {
+  display: flex;
+  gap: 20px;
+  text-align: center;
+}
+
+.links * {
+  color: var(--gray);
+  font-size: var(--text-lg);
+}
+
+/* ==================== HEADER ==================== */
+
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+  padding-block: 80px 100px;
+}
+
+.header-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  gap: 5px;
+  flex: 1 1 450px;
+}
+
+.header-info .heading {
+  font-size: var(--text-5xl);
+  font-weight: 800;
+  color: var(--white);
+}
+
+.header-info p {
+  color: var(--gray);
+}
+
+.header-img {
+  width: 500px;
+  height: 250px;
+  background-color: #b9b9b983;
+  font-weight: 300;
+  color: var(--gray);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex: auto;
+}
+
+.header-img span {
+  width: 100%;
+}
+
+/* ==================== INFORMATION SECTION ==================== */
+
+.information {
+  padding-block: 40px 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+
+.information .heading {
+  text-align: center;
+  font-size: var(--text-4xl);
+  font-weight: 800;
+  color: var(--dark);
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+}
+
+.card {
+  width: 150px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.card :first-child {
+  width: 100%;
+  height: 150px;
+  border: 4px solid var(--blue);
+  border-radius: var(--b-radius);
+  transition: 200ms;
+}
+
+.card :first-child:hover {
+  border-color: var(--gray);
+}
+
+/* ==================== QUOTE SECTION ==================== */
+
+.quote {
+  padding-block: 100px;
+  max-width: 700px;
+}
+
+.phrase {
+  font-size: var(--text-4xl);
+  font-weight: 300;
+  font-style: italic;
+  color: var(--dark);
+}
+
+.author {
+  text-align: end;
+  font-weight: 700;
+}
+
+/* ==================== CALL SECTION ==================== */
+
+.call-wrapper {
+  padding-block: 100px;
+}
+
+.call {
+  background-color: var(--blue);
+  border-radius: var(--b-radius);
+  padding: 50px 120px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+
+.call-info :first-child {
+  font-size: var(--text-2xl);
+  font-weight: 700;
+  color: var(--white);
+}
+
+.call-info :nth-child(2) {
+  font-size: var(--text-lg);
+  font-weight: 300;
+  color: var(--gray);
+}
+
+/* ==================== FOOTER ==================== */
+
+.footer {
+  display: flex;
+  justify-content: center;
+  padding-block: 40px;
+}
+
+.copy {
+  text-align: center;
+  color: var(--gray);
+}
+
+@media (max-width: 800px) {
+  /* ==================== MENU ==================== */
+
+  .menu {
+    justify-content: center;
+    gap: 30px;
+  }
+
+  .links {
+    justify-content: space-between;
+    flex: auto;
+  }
+
+  /* ==================== HEADER ==================== */
+
+  .header-img {
+    width: 450px;
+    height: 225px;
+  }
+
+  /* ==================== CALL SECTION ==================== */
+
+  .call {
+    padding: 25px 60px;
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 500px) {
+  :root {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 321px) {
+  :root {
+    font-size: 12px;
+  }
+}
