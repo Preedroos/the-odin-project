@@ -1,0 +1,11 @@
+How do you open developer tools?
+Answer: You can reach there using the chrome setting > More tools > Developer tools; Also right clicking anywhere ont he webpage and selecting "Inspect" option; Or using shortcut as F12 or Ctrl + Shift + C (Ctrl + Command + C on Mac OS).
+
+How do you change screen size of a website using developer tools?
+Answer: With the developer tools open, you will see a bar at the top where you can modify the dimensions and simulate a device dimension as well.
+
+What is a breakpoint?
+Answer: A breakpoint is a limit you set for the script which doesn't let it run the rest.
+
+How do you set a breakpoint?
+Answer: With the script open, you can click on the line you want to add a breakpoint.
