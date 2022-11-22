@@ -1,0 +1,20 @@
+What are the three stages in the problem solving process?
+Answer: Understand the problem, plan how to solve it and divide it into small subproblems.
+
+Why is it important to clearly understand the problem first?
+Answer: You can't solve something that you barely understand.
+
+What can you do to help get a clearer understanding of the problem?
+Answer: Plan how to solve it.
+
+What are some of the things you should do in the planning stage of the problem solving process?
+Answer: Write the plan out on a paper or try to explain to someone what you understood.
+
+What is an algorithm?
+Answer: An instruction that solves something.
+
+What is pseudocode?
+Answer: An english instruction that intends to solve something.
+
+What are the advantages of breaking a problem down and solving the smaller problems?
+Answer: It makes the problem easier.
