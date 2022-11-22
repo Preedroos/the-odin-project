@@ -1,0 +1,17 @@
+What are functions useful for? 
+Answer: Create a process and use it later multiple times without write the same script again.
+
+How do you invoke a function?
+Answer: Function name plus parenthesis, and arguments if required.
+
+What are anonymous function?
+Answer: A function that hasn't name.
+
+What is function scope?
+Answer: All variables created within a function only exist in it, when the function finishes those variables can't be accessed out there.
+
+What are return values?
+Answer: Return values are either variables or values that go out the function scope.
+
+What are arrow functions?
+Answer: A function that hasn't name or even "function" word in your declaration and it is a shorter way to make a function.
