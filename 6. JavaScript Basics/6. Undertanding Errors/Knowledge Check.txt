@@ -1,0 +1,8 @@
+What are three reasons why you may see a TypeError?
+Answer: When attempting to modify a value that cannot be modified, or when attempting to use a value in an inappropriate way, or to pass an argument with different type of the expected by the function.
+
+What is the key difference between an error and a warning?
+Answer: An error crashes your code in runtime, but a warning doesn't.
+
+What is one method you can use to resolve an error?
+Answer: Debugging.
