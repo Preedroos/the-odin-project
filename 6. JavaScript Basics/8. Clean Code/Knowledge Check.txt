@@ -1,0 +1,8 @@
+Why is it important to write clean code?
+Answer: Avoid headaches.
+
+Name 5 clean code principles previously mentioned?
+Answer: Indentetion; descriptive names; line length; avoid abusing comments; avoid extremely large functions;
+
+What is the difference between good comments and bad comments?
+Answer: Good comments tell us why the script work, otherwise bad comments tell us how.
