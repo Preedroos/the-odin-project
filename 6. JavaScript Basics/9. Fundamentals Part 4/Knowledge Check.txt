@@ -1,0 +1,29 @@
+What is an array?
+Answer: It is a data structure that makes possible to add values to it and it's accessiable by a variable name. An array also has special methods and attributes.
+
+What are arrays useful for?
+Answer: To arrange the same data types in the same variable.
+
+How do you access an array element?
+Answer: First the array name then element index between square brackets. eg. array[0]
+
+How do you change an array element?
+Answer: After accessing the element add equals then the new value. eg array[0] = 'new one'
+
+What are some useful array properties?
+Answer: length.
+
+What are some useful array methods?
+Answer: forEach(), map(), filter(), includes().
+
+What are loops useful for?
+Answer: To repeat some piece of code.
+
+What is the break statement?
+Answer: break stops and leaves the loop.
+
+What is the continue statement?
+Answer: continue stop and go to the next loop iteration.
+
+What is the advantage of writing automated tests?
+Answer: You can write code without worrying about losing functionality.
