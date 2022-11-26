@@ -1,0 +1,47 @@
+What is the DOM?
+Answer: A object representation created in memory of the html file and its links.
+
+How do you target the nodes you want to work with?
+Answer: document.querySelector('<css_selector>')
+
+How do you create an element in the DOM?
+Answer: document.createElement('<html_element')
+
+How do you add an element to the DOM?
+Answer: <parent_node>.appendChild(<child>)
+
+How do you remove and element from the DOM?
+Answer: <parent_node>.removeChild(<child>)
+
+How can you alter an element in the DOM?
+Answer: The node has attributes and methods that can be accessed by using '.' (period).
+
+When adding text to a DOM element, should you use textContent or innerHTML? Why?
+Answer: Use textContent because it prevents javascript injection.
+
+Where should you include your JavaScript tag in your HTML file when working with DOM nodes?
+Answer: You can include the script tag at the bottom of the body or in the head using 'defer' argument inside the script tag.
+
+How do "events" and "listeners" work?
+Answer: These are actions launched when the user interacts with the page. You can use some methods that catch these interactions and add reactions back to the user.
+
+What are three ways to use events in your code?
+Answer: Adding inline script with html event; Querying the element and using event function; Or using event listener.
+
+Why are event listeners the preferred way to handle events?
+Answer: You can only have one event handler for a specific event type, but you can add multiple event listeners for it.
+
+What are the benefits of using named functions in your listeners?
+Answer: Able to use the same function more than once.
+
+How do you attach listeners to groups of nodes?
+Answer: Using forEach() function.
+
+What is the difference between the return values of 'querySelector' and 'querySelectorAll'?
+Answer: querySelector() returns a node, on the other side querySelectorAll() returns a nodelist.
+
+What does a "nodelist" contain?
+Answer: As its name refers, a list of nodes.
+
+Explain the difference between "capture" and "bubbling".
+Answer: By default, the listener function catches the event and traces the above parent elements, on the other hand capture=true is going to get trace way down.
