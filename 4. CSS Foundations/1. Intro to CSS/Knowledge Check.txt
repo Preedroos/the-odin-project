@@ -1,0 +1,17 @@
+What is the syntax for class and ID selectors?
+Answer: The syntax for a class selector is ".class" (a dot and the name of the class); And for the ID selector "#id" (a hash follwing by the id name).
+
+How would you apply a single rule to two different selectors?
+Answer: Using a comma between the selectors.
+
+Given an element that has an id of title and a class of primary, how would you use both attributes for a single rule?
+Answer: #title.primary { //style }
+
+What does the descendant combinator do?
+Answer: It affects elements that match the last selector to be selected if they also have an ancestor (parent, grandparent, etc) that matches the previous selector.
+
+What are the names of the three ways to add CSS to HTML?
+Answer: Inline CSS, Internal CSS and External CSS.
+
+What are the main differences between the three ways of adding CSS to HTML?
+Answer: Considering flexibility (External > Internal > Inline), but the priority order is (Inline > Internal > External).
