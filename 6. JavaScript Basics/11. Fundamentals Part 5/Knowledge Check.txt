@@ -1,0 +1,11 @@
+What is the difference between objects and arrays?
+Answer: Object is a special type that keeps properties and methods. These properties are made of key and value. An array is a list that keeps values, and these value can be of different types.
+
+How do you access object properties?
+Answer: object.prop or object["prop"]
+
+What is Array.prototype.map() useful for?
+Answer: map() takes in an array, does something with that array and returns a new array with the same length. So if you want, for example, join the "name' and "surname" of all objects in an array, you may want to use the map() for it.
+
+What is Array.prototype.reduce() useful for?
+Answer: reduce() also takes in an array, builds something on the items and returns a final value. For instance, you may use reduce() to find the oldest person in the array.
