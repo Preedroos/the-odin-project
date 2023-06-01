@@ -1,0 +1,11 @@
+What is a table?
+Answer: In HTML it is a <table></table> tag which is used for tabular data.
+
+Why is it a bad idea to use HTML Tables for page layout?
+Answer: Layout tables reduce accessibility for visually impaired users, tables produce tag soup and are not automatically responsive.
+
+What are caption elements useful for?
+Answer: It is useful for the user to get an idea about what is the table contents and also for blind users.
+
+What is scope attribute?
+Answer: It is an attribute that can be added to the <th> element to tell screen readers exactly what cells the header is a header for.

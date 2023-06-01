@@ -1,0 +1,14 @@
+Why should you use Emmet?
+Answer: Because it reduces the development time, when using shortcuts instead of writing the entire command.
+
+What are some useful Emmet abbreviations?
+Answer: My favorite shortcuts are tag.class and ! for creating the html boilerplate.
+
+What syntax would you use to create this element <p class="text"></p>?
+Answer: p.text
+
+What syntax expands to an element with a child element inside of it? For example: <div><p></p></div>
+Answer: div>p
+
+What syntax would you use to create three elements that have the same class name?
+Answer: div.classname*3

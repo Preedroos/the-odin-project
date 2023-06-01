@@ -1,0 +1,8 @@
+What is the xmlns attribute?
+Answer: The XML NameSpace specifies what dialect of HTML you're using.
+
+What are some situations where you wouldn't want o use SVG?
+Answer: When I need to put some complex image on the page. Like a grunge texture.
+
+What are the benefits of "inlining" your SVGs? What are the drawbacks?
+Answer: The benefits are that I can access its properties, but the drawbacks are my large and messy html document, also if there's a large inlined svg, the browser would take some more time to load all the content, since it can be cashed.
