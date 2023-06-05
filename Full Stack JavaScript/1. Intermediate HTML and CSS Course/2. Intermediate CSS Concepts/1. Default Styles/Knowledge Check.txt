@@ -1,0 +1,2 @@
+Why would you want to use a CSS reset?
+Answer: To set a default pattern for different browsers.

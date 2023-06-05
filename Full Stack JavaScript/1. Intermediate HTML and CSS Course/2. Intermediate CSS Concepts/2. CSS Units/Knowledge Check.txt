@@ -1,0 +1,8 @@
+Why would you want to use em or rem for font-size instead of px?
+Answer: Because they are relative and it is more responsive.
+
+What are some instances where you might want to use vh and vw?
+Answer: Any time you want something to be sized relative to the viewport.
+
+What are some instances where you might want to use px instead of a relative unit?
+Answer: When you want that something keeps its size.
