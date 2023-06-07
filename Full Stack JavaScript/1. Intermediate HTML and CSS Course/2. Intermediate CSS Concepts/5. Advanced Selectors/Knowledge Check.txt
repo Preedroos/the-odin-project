@@ -1,0 +1,23 @@
+What is the difference between the child combinator and the descendant combinator?
+Answer: The child combinator targets only the first children divs, and the descendant combinator targets all divs inside the parent element.
+
+How does the syntax of pseudo-classes and pseudo-elements differ?
+Answer: :(classes) and ::(element)
+
+Do pseudo-classes exist somewhere in HTML? Do pseudo-elements?
+Answer: Yes, pseudo-classes are a way to access elements that already exist in the HTML. On the other hand, pseudo-elements don't normally exist in the markup.
+
+Name two ways you could select every second child of an element, starting with the first.
+Answer: child + child or :first-child ~ child.
+
+What is the difference between div:first-child and div:last-child? What will each select?
+Answer: respectively, these selectors will match elements that are the first and last sibling.
+
+What selector would you use to style a button a user is currently hovering over? How about one that is currently being clicked on?
+Answer: button:hover and button:active
+
+How could you select all input elements with a type of text?
+Answer: input[type="text"]
+
+How could you select all classes that begin with thunder?
+Answer: [class^="thunder"]
