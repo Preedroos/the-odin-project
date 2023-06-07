@@ -1,0 +1,11 @@
+What are the 2 ways to add fonts that are not installed on a user’s computer?
+Answer: By adding a link in the HTML file or an @import in the css.
+
+What is the ‘system font stack’ and why would you want to use it?
+Answer: You may want to use a font that the browser doesn't support, but if you have a fallback in your system font stack, your website won't look abandoned when the font api doesn't work.
+
+Which property would you use to increase or decrease the space between letters in a word?
+Answer: letter-spacing
+
+Which property would you use to increase or decrease the space between lines in a paragraph?
+Answer: line-height
