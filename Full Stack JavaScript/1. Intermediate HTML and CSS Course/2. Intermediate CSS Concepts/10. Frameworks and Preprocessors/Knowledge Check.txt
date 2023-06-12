@@ -1,0 +1,11 @@
+What are some advantages of using a CSS framework?
+Answer: They are designed to abstract away the process of coding intuitive, reusable, and responsive elements.
+
+What are some disadvantages of using a CSS framework?
+Answer: An awful lot of similarities between a lot of sites you encounter, due to similar use of frameworks
+
+What are some advantages of using a CSS preprocessor?
+Answer: They reduce code repetition and provide all sorts of time-saving and code-saving features.
+
+What are some disadvantages of using a CSS preprocessor?
+Answer: Debugging is harder; Compilations slows down development; 
