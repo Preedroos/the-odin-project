@@ -1,0 +1,8 @@
+What is the most used browser currently?
+Answer: Chrome
+
+What was the original name of the first web browser?
+Answer: WorldWideWeb
+
+How are mobile browsers different on Apple mobile operating systems from Android?
+Answer: There's a difference in the rendering engine on an Apple and on an Android.
