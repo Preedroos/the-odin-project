@@ -1,0 +1,8 @@
+What are the four CSS math functions we covered above?
+Answer: calc(), min(), max() and clamp()
+
+How do we use CSS math functions in our CSS?
+Answer: just write them as a property, like width: calc(100vw - 5rem)
+
+How can CSS functions help make websites and applications more responsive?
+Answer: You can set fallback values to sizes.
