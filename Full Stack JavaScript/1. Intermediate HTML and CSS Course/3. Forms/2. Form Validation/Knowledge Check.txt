@@ -1,0 +1,14 @@
+What does the required validation do?
+Answer: Indicate which fields are required.
+
+What validations can you use for checking text length?
+Answer: minlength and maxlength
+
+How can you validate the minimum and maximum of numeric inputs?
+Answer: min and max
+
+What can you use the pattern validation for?
+Answer: To ensure we get the correct information from users.
+
+What pseudo CSS selectors are available for styling valid and invalid inputs?
+Answer: :valid and :invalid
