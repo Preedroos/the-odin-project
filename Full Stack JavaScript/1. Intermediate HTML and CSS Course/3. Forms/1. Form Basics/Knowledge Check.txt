@@ -1,0 +1,17 @@
+Explain what the form element is for and what two attributes it should always include.
+Answer: A form is for collect user's data, and the two attributes it should always include are action and method.
+
+Explain what form controls are at a high level.
+Answer: There are elements users will interact with on the form.
+
+What is the name attribute for?
+Answer: The name attribute serves as a reference to the data inputted into a form control after submitting it.
+
+What are the three most common form controls you can use for allowing users to select predefined options?
+Answer: Checkboxes, radio buttons and dropdowns.
+
+What are the three types of buttons in HTML?
+Answer: submit, button and reset.
+
+What are the two most challenging aspects of styling forms?
+Answer: Default browser styles and tricky and downright impossible to style some form controls.
